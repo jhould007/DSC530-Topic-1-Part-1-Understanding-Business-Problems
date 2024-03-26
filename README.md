@@ -1,4 +1,4 @@
-# DSC530-Part-1-Understanding-Business-Problems
+# DSC530-Topic-1-Part-1-Understanding-Business-Problems
  An assignment for DSC530 at GCU that focused on formulating questions for predictive modeling applications, finding an appropriate dataset, and exploring the dataset to determine its suitability.
 
 View the complete report [here.](https://github.com/jhould007/DSC530-Part-1-Understanding-Business-Problems/blob/main/Part%201%20Understanding%20Business%20Problems.ipynb)
